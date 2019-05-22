@@ -1,0 +1,16 @@
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\bin\Debug\netstandard2.0\Demo.deps.json
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\bin\Debug\netstandard2.0\Demo.dll
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\bin\Debug\netstandard2.0\Demo.pdb
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\Demo.csprojAssemblyReference.cache
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfo.cs
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\Demo.dll
+C:\Users\Darlington\source\repos\XamToolbarDemo\Demo\Demo\obj\Debug\netstandard2.0\Demo.pdb
